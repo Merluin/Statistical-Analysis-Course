@@ -1,9 +1,9 @@
 # Day 1 : Introduction to Empirical Research
 
 ## Topics:
-	- Measurement issues, 
- 	- Research designs,
-  	- Data collection.
+	- Measurement issues
+ 	- Research designs
+  	- Data collection
 
 ## Material
 
