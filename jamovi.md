@@ -1,12 +1,8 @@
-Here’s the revised example tailored to the **Harry Potter** theme with the four houses and BUSEs (Basic Universal Skills Examinations):
-
----
-
 # 📊 **Descriptive Statistics in Jamovi: Example and Explanation**
 
 ---
 
-### **Scenario: Comparing Hogwarts House Performances in BUSEs**
+### **Scenario: Comparing Hogwarts House Performances in OWLs**
 
 At Hogwarts School of Witchcraft and Wizardry, students from the four houses—**Gryffindor, Hufflepuff, Ravenclaw, and Slytherin**—have just completed their OWLs (Ordinary Wizarding Levels). The aim is to analyze and compare the exam performance across the houses.
 
@@ -91,10 +87,6 @@ Each house has 40 students, and we will use **central tendency indices**, **disp
 
 ---
 
-This example showcases how to use **descriptive statistics** and **visual tools** in Jamovi to interpret data effectively, even when comparing Hogwarts houses in their BUSEs.
+This example showcases how to use **descriptive statistics** and **visual tools** in Jamovi to interpret data effectively, even when comparing Hogwarts houses in their OWLs.
 
 🔙 **Return to [Day 2](day2.md)**
-
---- 
-
-Does this align with the magical touch you're aiming for?
