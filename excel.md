@@ -91,3 +91,5 @@ A CSV (Comma-Separated Values) file is a plain-text file where data is separated
 ### **Conclusion**
 
 Excel provides a robust environment for data exploration and analysis. Mastering basic features like the fill handle, cell formatting, and functions enhances productivity. With a clear understanding of how to import and manage CSV files, Excel becomes an indispensable tool for working with data across various formats.
+
+Return to [index](index.md)
