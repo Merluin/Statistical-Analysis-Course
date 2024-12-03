@@ -14,4 +14,4 @@ To ensure everything runs smoothly, here are the necessary steps:
 3. Support:  
    If you encounter any issues downloading or installing the software, don’t worry! There will be a dedicated session at the start of the course to address these problems.  
 
-[Return to Index](index.md)
+Return to [Index](index.md)
