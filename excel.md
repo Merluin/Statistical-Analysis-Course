@@ -37,12 +37,27 @@ Microsoft Excel is a powerful spreadsheet software widely used for data organiza
      - **Count:** `=COUNT(range)`
    - **Example Table of Basic Functions:**
 
-     | **Function**         | **Description**                      | **Example**              |
-     |-----------------------|--------------------------------------|--------------------------|
-     | `=AVERAGE(range)`     | Calculates the mean of a range.      | `=AVERAGE(A1:A10)`       |
-     | `=SUM(range)`         | Adds all values in a range.          | `=SUM(B1:B10)`           |
-     | `=COUNT(range)`       | Counts numeric entries in a range.   | `=COUNT(C1:C10)`         |
-     | `=STDEV.S(range)`     | Calculates sample standard deviation.| `=STDEV.S(D1:D10)`       |
+| **English Function**   | **Italian Function**         | **Description**                               | **Example (Italian)**       |
+|-------------------------|------------------------------|-----------------------------------------------|------------------------------|
+| `=AVERAGE(range)`       | `=MEDIA(intervallo)`         | Calculates the mean of a range.               | `=MEDIA(A1:A10)`            |
+| `=SUM(range)`           | `=SOMMA(intervallo)`         | Adds all values in a range.                   | `=SOMMA(B1:B10)`            |
+| `=COUNT(range)`         | `=CONTA.NUMERI(intervallo)`  | Counts numeric entries in a range.            | `=CONTA.NUMERI(C1:C10)`     |
+| `=STDEV.S(range)`       | `=DEV.ST(intervallo)`        | Calculates sample standard deviation.         | `=DEV.ST(D1:D10)`           |
+| `=STDEV.P(range)`       | `=DEV.ST.P(intervallo)`      | Calculates population standard deviation.     | `=DEV.ST.P(D1:D10)`         |
+| `=MEDIAN(range)`        | `=MEDIANA(intervallo)`       | Finds the median value in a range.            | `=MEDIANA(E1:E10)`          |
+| `=MODE.SNGL(range)`     | `=MODA.UNO(intervallo)`      | Finds the most frequent value (single mode).  | `=MODA.UNO(F1:F10)`         |
+
+### **Important Notes:**
+1. **Localized Function Names:**  
+   Excel automatically localizes function names based on the language of the software. If you're using the Italian version, you need to use the Italian names.
+   
+2. **Formula Behavior:**  
+   If you receive or share Excel files between different language versions, Excel will translate the function names automatically for the recipient's language version. 
+
+3. **Function Lookups:**  
+   If unsure, use Excel's **Function Wizard** (Insert Function button) to find the localized function name. 
+
+You can find the Italian function [here](https://it.excelfunctions.eu/AVERAGE/Italiano)
 
 ---
 
