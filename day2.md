@@ -1,9 +1,10 @@
 # Day 2 : Introduction to Statistics
 
 ## Topics:
-    - Descriptive statistics, 
-    - graphical representation,
-    - Excel and Jamovi.
+    - Descriptive statistics
+    - graphical representation
+    - Introduction to Excel
+    - Introduction to Jamovi
 
 ## Material
 
