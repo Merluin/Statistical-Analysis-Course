@@ -36,7 +36,7 @@ Practice on all course topics.
 ## Orari edizione 2024
 
 | Giorno | Orario |
-| :--- | :--- | :--- |
+| :--- | :--- |
 | Wednesday 27 Novembre | 9:00-13:00 |
 | Wednesday 04 December | 9:00-13:00 |
 | Wednesday 11 December | 9:00-13:00 |
