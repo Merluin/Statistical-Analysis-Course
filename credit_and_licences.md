@@ -61,5 +61,4 @@ SOFTWARE.
 
 ---
 
-## 🔙 **Return to the Main Page**  
-[Back to Index](index.md)
+🔙 **[Return to Index](index.md)**
