@@ -31,7 +31,7 @@ Participate in creating our first dataset using this [survey](https://docs.googl
 
 ### **📥 Download Data**  
 Get the dataset we’ll work with during the session:  
-- **[Very Fake Dataset (ZIP)](dataset/VeryFakeData.zip)**  
+- **[Dataset](dataset/VeryFakeData.zip)**  
 
 ---
 
