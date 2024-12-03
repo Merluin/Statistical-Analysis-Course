@@ -10,7 +10,7 @@ We are comparing the performance of two high school classes based on a test:
 
 Each class consists of 40 students who were assessed on the same test. Our goal is to analyze their performance using **central tendency indices** and **dispersion indices**, followed by graphical representation to better understand the distributions.
 
-📥 **Download the dataset:** [Two Classes Comparison (ZIP)](dataset/two_classes_comparison.csv.zip)
+📥 **Download the dataset:** [Two Classes Comparison](dataset/two_classes_comparison.csv.zip)
 
 ---
 
