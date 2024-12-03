@@ -44,6 +44,7 @@ In the **long format**, each observation is recorded as a separate row, and vari
 - Data is "long" because rows represent unique variable-category combinations.
 - Useful for plotting or advanced analyses in tools like Jamovi, R, or Python.
 
+Download the very Fake [data](dataset/VeryFakeData.zip)
 ---
 
 #### **Basics of Using Excel for Data Analysis**
