@@ -62,5 +62,3 @@ Follow the instructions at this [link](Prepararsiperilcorso.md) to prepare your 
 ---
 Please read [credit and licences](credit_and_licences.md)
 ---
-
-🔙 **[Return to Index](index.md)**
