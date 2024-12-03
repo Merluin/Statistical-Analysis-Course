@@ -51,8 +51,7 @@ Each observation is recorded in a separate row, with variables categorized in on
 - Useful for plotting and advanced analysis.
 - Ideal for tools like R, Jamovi, or Python.
 
-📥 **Download Dataset:**  
-[Dataset](dataset/VeryFakeData.zip)
+📥 **Download Dataset:**  [Very Fake Data](dataset/VeryFakeData.zip)
 
 ---
 
