@@ -52,7 +52,7 @@ Each observation is recorded in a separate row, with variables categorized in on
 - Ideal for tools like R, Jamovi, or Python.
 
 📥 **Download Dataset:**  
-[Very Fake Data (ZIP)](dataset/VeryFakeData.zip)
+[Dataset](dataset/VeryFakeData.zip)
 
 ---
 
