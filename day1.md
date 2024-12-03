@@ -35,5 +35,4 @@ Get the dataset we’ll work with during the session:
 
 ---
 
-## 🔙 **Return to the Main Page**  
-[Back to Index](index.md)
+🔙 **[Return to Index](index.md)**
