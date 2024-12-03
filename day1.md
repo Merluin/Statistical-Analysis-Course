@@ -2,7 +2,7 @@
 
 ## Topics:
 	- Measurement issues, 
-      	- Research designs
+ 	- Research designs
       	- Data collection.
 
 ## Material
