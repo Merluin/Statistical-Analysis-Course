@@ -25,7 +25,8 @@ Explore today's concepts with the presentation below. You can navigate through t
 
 ### **🛠️ Tools Introductions**  
 - Learn about **Excel**: [Intro to Excel](excel.md)  
-- Learn about **Jamovi**: [Intro to Jamovi](jamovi.md)  
+- Learn about **Jamovi**: [Intro to Jamovi](jamovi.md)
+- More practice: [Stroop](stroop.csv.zip) 
 
 ---
 
