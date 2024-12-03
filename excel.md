@@ -110,4 +110,4 @@ A **CSV (Comma-Separated Values)** file stores data in plain text, separating va
 
 Excel is a robust platform for data exploration. By mastering basics like the fill handle, formatting, and functions, you can efficiently analyze and visualize datasets.
 
-🔙 **Return to [Index](index.md)**
+🔙 **Return to [Day 2](day2.md)**
