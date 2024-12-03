@@ -30,5 +30,4 @@ Explore today's concepts with the presentation below. You can navigate through t
 
 ---
 
-## 🔙 **Return to the Main Page**  
-[Back to Index](index.md)
+🔙 **[Return to Index](index.md)**
