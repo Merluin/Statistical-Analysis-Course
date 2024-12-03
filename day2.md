@@ -2,7 +2,7 @@
 
 ## Topics:
 	- Descriptive statistics, 
-      	- graphical representation
+      	- graphical representation,
      	- Excel and Jamovi.
 
 ## Material
