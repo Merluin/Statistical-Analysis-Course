@@ -13,8 +13,7 @@ Researchers must choose tools that best meet their needs, balancing efficiency, 
 This course aims to introduce participants to data analysis using Excel and Jamovi. It will cover essential functionalities, enabling participants to explore data, perform statistical analyses, create visualizations, and interpret results effectively.
 ## Requisiti software
 
-A questo [link](Prepararsiperilcorso.md) troverete le istruzioni per essere pronti ad iniziare il corso.
-
+At this [link](Prepararsiperilcorso.md), you will find instructions to get ready for the course.
 ## Argomenti 
 
 - [Day 1](day1.md) : Introduction to Empirical Research
