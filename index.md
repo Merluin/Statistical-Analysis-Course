@@ -60,5 +60,7 @@ Follow the instructions at this [link](Prepararsiperilcorso.md) to prepare your 
 | **Wednesday 08 January**  | 9:00-11:00      |
 
 ---
+Please read [credit and licences](credit_and_licences.md)
+---
 
 🔙 **[Return to Index](index.md)**
