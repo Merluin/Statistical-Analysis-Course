@@ -83,4 +83,4 @@ Each class consists of 40 students who were assessed on the same test. Our goal 
 
 This example demonstrates the importance of combining **numerical summaries** and **graphical tools** to understand and interpret data distributions effectively.
 
-🔙 **[Return to Index](index.md)**
+🔙 **Return to [Day 2](day2.md)**
