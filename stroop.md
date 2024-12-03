@@ -6,7 +6,7 @@ Explore the Stroop dataset designed to demonstrate group differences in reaction
 
 ## 📂 **Dataset**
 Download the dataset here:  
-[📥 Stroop Test Dataset (ZIP)](dataset/stroop.csv.zip)
+[📥 Stroop Test Dataset](dataset/stroop.csv.zip)
 
 ---
 
