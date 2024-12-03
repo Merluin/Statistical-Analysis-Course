@@ -42,3 +42,6 @@ This dataset can be used to:
 2. Visualize the interaction effects between group and language.
 3. Practice repeated-measures ANOVA or mixed-effects modeling.
 
+---
+
+🔙 **[Return to Index](index.md)**
