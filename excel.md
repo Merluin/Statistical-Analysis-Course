@@ -24,8 +24,8 @@ Each row represents a single observation, with variables in separate columns.
 
 | **Name**     | **IQ** | **Size (cm)** | **Weight (kg)** | **Age**    |
 |--------------|--------|---------------|-----------------|------------|
-| Valentino    | 179    | 89            | 78              | over 30    |
-| Peppina      | 120    | 55            | 78              | under 30   |
+| Luca    | 179    | 89            | 78              | over 30    |
+| Sara      | 120    | 55            | 78              | under 30   |
 
 **Key Features:**
 - Easy to read for small datasets.
@@ -38,14 +38,14 @@ Each observation is recorded in a separate row, with variables categorized in on
 
 | **Name**     | **Variable** | **Value**  |
 |--------------|--------------|------------|
-| Valentino    | IQ           | 179        |
-| Valentino    | Size (cm)    | 89         |
-| Valentino    | Weight (kg)  | 78         |
-| Valentino    | Age          | over 30    |
-| Peppina      | IQ           | 120        |
-| Peppina      | Size (cm)    | 55         |
-| Peppina      | Weight (kg)  | 78         |
-| Peppina      | Age          | under 30   |
+| Luca    | IQ           | 179        |
+| Luca    | Size (cm)    | 89         |
+| Luca    | Weight (kg)  | 78         |
+| Luca    | Age          | over 30    |
+| Sara      | IQ           | 120        |
+| Sara      | Size (cm)    | 55         |
+| Sara      | Weight (kg)  | 78         |
+| Sara      | Age          | under 30   |
 
 **Key Features:**
 - Useful for plotting and advanced analysis.
