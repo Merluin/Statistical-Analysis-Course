@@ -1,17 +1,26 @@
-### Preparing for the Course
+# 🛠️ **Preparing for the Course**
 
-No prior knowledge of programming or statistics is required for this course. 
+No prior knowledge of programming or statistics is required for this course. Follow these simple steps to ensure you’re ready to get started:
 
-To ensure everything runs smoothly, here are the necessary steps: 
+---
 
-1. Installing Jamovi:  
-   You can download and install Jamovi by following the instructions on the same page:  
-   [link](https://www.jamovi.org/download.html).  
+### 1️⃣ **Installing Jamovi**  
+Jamovi is an essential tool for this course. Download and install it by visiting the official website:  
+[📥 Download Jamovi](https://www.jamovi.org/download.html)  
 
-2. Using Excel: 
-   We will also use Excel during the course. Please follow your institution's procedures to access and activate the software.  
+---
 
-3. Support:  
-   If you encounter any issues downloading or installing the software, don’t worry! There will be a dedicated session at the start of the course to address these problems.  
+### 2️⃣ **Using Excel**  
+We will also use Excel for data analysis. Ensure you have access to it by following your institution's procedures for activation and installation.
 
-Return to [Index](index.md)
+---
+
+### 3️⃣ **Need Help?**  
+Don’t worry if you encounter any issues! A dedicated session will be held at the start of the course to assist with:
+- Downloading Jamovi.
+- Installing Excel.
+- Troubleshooting other setup problems.
+
+---
+
+🔙 **[Return to Index](index.md)**
