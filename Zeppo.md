@@ -17,15 +17,15 @@ Navigate to: **Data Library > lsj-data > Zeppo**
 
 ### **2️⃣ Write the Hypothesis**
 
-- **Null Hypothesis (H₀):  
-- **Alternative Hypothesis (H₁):** The mean grade of the current students is **?** the historical mean of 61.  
+- **Null Hypothesis (H₀):** The mean grade of the current students is **equal to or less than** the historical mean of 61.  
+- **Alternative Hypothesis (H₁):** The mean grade of the current students is **greater than** the historical mean of 61.  
 
 ---
 
 ### **3️⃣ Choose the Appropriate Test**
 
 - Based on the data distribution:
-  - Use a **?** to compare the mean grade of the current sample to the historical mean.  
+  - Use a **one-sample t-test** to compare the mean grade of the current sample to the historical mean.  
   - Check assumptions (e.g., normality) before conducting the test.
 
 ---
@@ -43,4 +43,4 @@ Navigate to: **Data Library > lsj-data > Zeppo**
 
 ---
 
-🔙 **[Return to Day 3](day3.md)** 
+🔙 **[Return to Day 3](day3.md)**  
