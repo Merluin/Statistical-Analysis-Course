@@ -35,7 +35,7 @@ Follow the instructions at this [link](Prepararsiperilcorso.md) to prepare your 
 ### **[Day 2](day2.md): Introduction to Statistics**
 **Topics:** Descriptive statistics and graphical representation.
 
-### **[Day 3](workinprogress.md): Statistical Hypothesis Testing**  
+### **[Day 3](day3.md): Statistical Hypothesis Testing**  
 **Topics:** Null hypothesis testing, t-test, and Chi-square test.  
 
 ### **[Day 4](workinprogress.md): Correlation and Regression Analysis**  
