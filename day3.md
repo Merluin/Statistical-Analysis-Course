@@ -24,9 +24,9 @@ Explore today's concepts with the presentation below. You can navigate through t
 ## 📂 **Material**
 
 ### **🛠️ Tool Introductions**  
-- Learn about **t-Test (One Sample)**: [Jamovi](ttestos.md)  
+- Learn about **t-Test (One Sample)**: [Jamovi](zeppo.md)  
 - Learn about **t-Test (Paired)**: [Jamovi](ttestp.md)  
-- Learn about **t-Test (Independent)**: [Jamovi](ttesti.md)  
+- Learn about **t-Test (Independent)**: [Jamovi](harpo.md)  
 - Learn about **Chi-Square (Goodness of Fit)**: [Jamovi](chigof.md)  
 - Learn about **Chi-Square (Association)**: [Jamovi](chifa.md)  
 
