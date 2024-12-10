@@ -1,0 +1,1 @@
+The context of the dataset is inspired by the planet Chapek 9 from the television show "Futurama," a planet inhabited entirely by robot separatists. In this fictional scenario, to gain access to the capital city, visitors must prove they are robots by stating their preference among puppies, flowers, or large, properly formatted data files.
