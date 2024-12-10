@@ -27,8 +27,8 @@ Explore today's concepts with the presentation below. You can navigate through t
 - Learn about **t-Test (One Sample)**: [Jamovi](zeppo.md)  
 - Learn about **t-Test (Paired)**: [Jamovi](chico.md)  
 - Learn about **t-Test (Independent)**: [Jamovi](harpo.md)  
-- Learn about **Chi-Square (Goodness of Fit)**: [Jamovi](chigof.md)  
-- Learn about **Chi-Square (Association)**: [Jamovi](chifa.md)  
+- Learn about **Chi-Square (Goodness of Fit)**: [Jamovi](randomness.md)  
+- Learn about **Chi-Square (Association)**: [Jamovi](chapek9.md)  
 
 ---
 
