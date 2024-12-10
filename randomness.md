@@ -1,4 +1,4 @@
-# 📝 **Exercise: Random Playing Cards**
+# ♥️♠️♦️♣️ **Exercise: Random Playing Cards**
 
 Your task is to determine whether humans are capable of generating truly random choices. In theory, in a standard deck of playing cards, the four suits (Hearts, Diamonds, Clubs, Spades) are equally distributed, so each suit has the same probability of being chosen. However, when we ask participants to name a card, biases may exist. Your job is to analyze the data and figure out whether human choices are random or exhibit systematic bias. We focused on only on "choice 1" output.
 
