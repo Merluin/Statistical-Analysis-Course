@@ -29,7 +29,7 @@ Explore today's concepts with the presentation below. You can navigate through t
 - Learn about **t-Test (Independent)**: [Jamovi](harpo.md)  
 - Learn about **Chi-Square (Goodness of Fit)**: [Jamovi](randomness.md)  
 - Learn about **Chi-Square (Association)**: [Jamovi](chapek9.md) 
-- Solution [Zip](dataset/Exercises day3.zip) 
+- Solution [Zip](dataset/Exercises_day3.zip) 
 
 ### **Attribution**
 All exercises are adapted from [*Learning Statistics with Jamovi* by Danielle Navarro, David Foxcroft, and Thomas Faulkenberry](https://davidfoxcroft.github.io/lsj-book/Preface.html).  
