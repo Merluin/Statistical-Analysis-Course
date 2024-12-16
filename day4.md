@@ -24,7 +24,7 @@ Explore today's concepts with the presentation below. You can navigate through t
 ## 📂 **Material**
 
 ### **🛠️ Tool Introductions**  
-- Learn about **Correlations**: [Jamovi](anscombe.md)  
+- Learn about **Correlations**: [Jamovi](Anscombe.md)  
 - Learn about **Regressions**: [Jamovi](glm.md)  
 
 ---
