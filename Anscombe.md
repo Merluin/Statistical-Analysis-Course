@@ -33,7 +33,6 @@ Navigate to: **Data Library > lsj-data > Anscombe**
   - Include three correlation coefficients:  
     - **Pearson**  
     - **Spearman**  
-    - **Kendall's Tau-b**  
 
 ---
 
