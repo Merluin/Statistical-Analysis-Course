@@ -26,7 +26,7 @@ Explore today's concepts with the presentation below. You can navigate through t
 ### **🛠️ Tool Introductions**  
 - Learn about **Correlations**: [Jamovi](Anscombe.md)  
 - Learn about **Regressions**: [Jamovi](glm.md)  
-
+- Solution [Zip](dataset/Exercises_day4.zip) 
 ---
 
 ### **Attribution**  
