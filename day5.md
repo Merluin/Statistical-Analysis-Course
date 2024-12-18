@@ -11,7 +11,7 @@ Welcome to the fifth day of the course! Today, we dive into Application of all c
 - ✨ **Elf Socks and Sizes**  
 - 🎄 **Fulmine and Rudolf's Favorite Food**  
 - 💵 **Scrooge Company Bias Investigation**  
-- 🎅🏻 **Santa’s Fireplace Size vs Belly Size**
+- 🎅🏻 **Santa’s Belly Size vs Fireplace Size**
 
 ---
 
@@ -127,7 +127,7 @@ Scrooge Company suspects that Santa may be biased in distributing gifts across t
 
 ---
 
-## 🎅🏻 Santa’s Fireplace Size vs Belly Size
+## 🎅🏻 Santa’s Belly Size vs Fireplace Size
 Santa is concerned that his growing belly might make it harder to fit through chimneys. To prepare for Christmas Eve, he wants to compare the sizes of fireplaces in sampled households with his current belly size (**130 cm**).
 
 **Dataset Information:**
