@@ -14,6 +14,11 @@ Welcome to the fifth day of the course! Today, we dive into Application of all c
 - 🎅🏻 **Santa’s Fireplace Size vs Belly Size**
 
 ---
+
+## 🎥 **Presentation**  
+
+Explore today's concepts with the presentation below. You can navigate through the slides at your own pace:  
+
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQbENp_RFFgWlMcrrDp87v2SavYgg4vduIQhTUh6vzIMp_Aj6DQE-jva_jxtS4kFUwnRc10MzYDzNrm/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
