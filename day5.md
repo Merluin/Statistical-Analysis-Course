@@ -23,6 +23,8 @@ Explore today's concepts with the presentation below. You can navigate through t
 
 ---
 
+
+
 ## 🎁 Predicting Santa’s Gift Delivery
 Santa wants to predict how many gifts he can deliver based on the hours of travel time available on Christmas Eve. Over the past 100 years, he collected data on:
 
