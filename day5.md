@@ -133,10 +133,10 @@ Santa is concerned that his growing belly might make it harder to fit through ch
 **Dataset Information:**
 - **Household:** The name or ID of the household.  
 - **Fireplace_Size_cm:** The size of the fireplace opening in centimeters.  
-- **Santa_Belly_Size_cm:** Santa’s belly size for comparison.  
+- **Santa_Belly_Size_cm:** Santa’s belly size at the moment of the chimney measurement.  
 
 **Tasks:**
-- Determine the test to use to analyze if Santa’s belly size is significantly larger than the average fireplace size.  
+- Determine the test to use to analyze if the current Santa’s belly size is significantly larger than the average fireplace size.  
 - Analyze the data.  
 - Restituate briefly the results.
 
