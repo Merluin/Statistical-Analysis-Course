@@ -95,7 +95,7 @@ Fulmine and Rudolf are two of Santa’s trusted reindeer, but they seem to have 
   - “Hay”  
 
 **Tasks:**
-- Determine the test to use to analyze whether there is a relationship between the reindeer’s name and their food preference.  
+- Determine the test to use to analyze if the two reindeer have independent preferences for food.  
 - Analyze the data.  
 - Restituate briefly the results.
 
