@@ -83,12 +83,12 @@ Santa wants to ensure all his elves are comfortable and stylish, so he’s analy
 
 ---
 
-## 🎄 Fulmine and Rudolf's Favorite Food
+## 🎄 Fulmine and Rudolph's Favorite Food
 
-Fulmine and Rudolf are two of Santa’s trusted reindeer, but they seem to have different preferences when it comes to food.
+Fulmine and Rudolph are two of Santa’s trusted reindeer, but they seem to have different preferences when it comes to food.
 
 **Dataset Information:**
-- **Reindeer:** The name of the reindeer (Fulmine or Rudolf).  
+- **Reindeer:** The name of the reindeer (Fulmine or Rudolph).  
 - **Food_Preference:** The reindeer’s preferred food:  
   - “Carrots”  
   - “Apples”  
@@ -103,8 +103,8 @@ Fulmine and Rudolf are two of Santa’s trusted reindeer, but they seem to have 
 
 ---
 
-## 💵 Scrooge Company Bias Investigation
-Scrooge Company suspects that Santa may be biased in distributing gifts across the continents. They want to analyze whether Santa's distribution matches the expected proportion of children in each continent.
+## 💵 Scrooge Limited Bias Investigation
+Scrooge Limited suspects that Santa may be biased in distributing gifts across the continents. They want to analyze whether Santa's distribution matches the expected proportion of children in each continent.
 
 **Dataset Information:**
 - **Continent:** The continent where the gifts were delivered (Asia, Africa, Europe, North America, South America, Oceania).  
