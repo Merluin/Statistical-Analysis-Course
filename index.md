@@ -38,7 +38,7 @@ Follow the instructions at this [link](Prepararsiperilcorso.md) to prepare your 
 ### **[Day 3](day3.md): Statistical Hypothesis Testing**  
 **Topics:** Null hypothesis testing, t-test, and Chi-square test.  
 
-### **[Day 4](workinprogress.md): Correlation and Regression Analysis**  
+### **[Day 4](day4.md): Correlation and Regression Analysis**  
 **Topics:** Correlational analysis, simple and multiple linear regression, and hierarchical regression.  
 
 ### **[Day 5](workinprogress.md): Comprehensive Exercises**  
