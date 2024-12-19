@@ -146,3 +146,22 @@ Santa is concerned that his growing belly might make it harder to fit through ch
 
 🔙 **[Return to Index](index.md)**
 
+---
+## Play with ChatGPT:
+
+🎓 I’m Learning Statistics – Want to Play a Game? 🎓
+
+I’ve been diving into the world of basic statistics and have learned some cool stuff! Here’s what I can do so far:
+✅ Perform a Chi-square test, t-tests, correlation, and simple/multiple regression.
+✅ Understand when to use ANOVA if there are more than two levels of a factor.
+✅ Apply ANCOVA when mixing categorical and continuous independent variables.
+
+Now, here’s the fun part:
+Let’s play a game! 🎮 You provide an example scenario, and I’ll try to guess the correct statistical test or analysis to apply.
+
+💡 Think of something fun, challenging, or tricky – I’m ready to put my skills to the test!
+
+Who's in? Drop your examples below! 👇
+
+
+
