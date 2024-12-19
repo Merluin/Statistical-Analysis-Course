@@ -41,7 +41,7 @@ Follow the instructions at this [link](Prepararsiperilcorso.md) to prepare your 
 ### **[Day 4](day4.md): Correlation and Regression Analysis**  
 **Topics:** Correlational analysis, simple and multiple linear regression, and hierarchical regression.  
 
-### **[Day 5](workinprogress.md): Comprehensive Exercises**  
+### **[Day 5](day5.md): Comprehensive Exercises**  
 **Practice:** Application of all course topics.  
 
 ### **[Day 6](workinprogress.md): Final Test**
