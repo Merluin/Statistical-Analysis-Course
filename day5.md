@@ -25,7 +25,8 @@ Explore today's concepts with the presentation below. You can navigate through t
 
 ## 📂 **Material and Instructions**
 
-- Datasets [Zip](dataset/Exercises_day5.zip) 
+- Datasets [Zip](dataset/Exercises_day5.zip)
+- Solution [Zip](dataset/Solution_day5.zip) 
 
 
 ## 🎁 Predicting Santa’s Gift Delivery
