@@ -26,9 +26,9 @@ You will have to submit the results of the exercises in this [Google Form](https
 
 We assume that all test assumptions are satisfied.
 
-Identify the appropriate test to predict delivery time.
-Perform the data analysis.
-Submit the results in the provided Google Form.
+- Identify the appropriate test to predict delivery time.
+- Perform the data analysis.
+- Submit the results in the provided Google Form.
 
 ---
 
