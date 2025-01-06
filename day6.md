@@ -15,21 +15,20 @@ Welcome to the last day of the course! Today, we test your statistical skills.
 
 ---
 
-## 📽️ **Presentation**
+## 📂 **Material and Instructions**
 
 You will have to submit the results of the exercises in this [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScuXGuG092avrO7h0c7RdpLX3UIyfdUIrcam2yrXvHk-Rg5kg/viewform?usp=header).
 
----
-
-## 📂 **Material and Instructions**
 
 - Datasets [Zip](dataset/Exercises_day6.zip)
   
  **Tasks:**
 
-- Determine the test to use to predict delivery time.
-- Analyze the data.
-- Submit the results in the Google Form.
+We assume that all test assumptions are satisfied.
+
+Identify the appropriate test to predict delivery time.
+Perform the data analysis.
+Submit the results in the provided Google Form.
 
 ---
 
