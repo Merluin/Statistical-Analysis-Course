@@ -44,7 +44,7 @@ Follow the instructions at this [link](Prepararsiperilcorso.md) to prepare your 
 ### **[Day 5](day5.md): Comprehensive Exercises**  
 **Practice:** Application of all course topics.  
 
-### **[Day 6](workinprogress.md): Final Test**
+### **[Day 6](day6.md): Final Test**
 
 ---
 
